@@ -1,0 +1,26 @@
+[ 
+    {
+        "name": "riri",
+        "choices": [
+            3,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "fifi",
+        "choices": [
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "name": "loulou",
+        "choices": [
+            1,
+            2,
+            3
+        ]
+    }
+]
